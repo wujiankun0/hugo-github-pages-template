@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://wujiankun0.github.io/hugo-github-pages-template/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My New Jenkin"
 theme = "ananke"
